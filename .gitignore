@@ -29,3 +29,6 @@ execution/
 .tmp/
 *.backup.ipynb
 *.log
+
+# Local-only documentation (not for public release)
+HOWTO_ru.md
