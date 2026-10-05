@@ -67,4 +67,4 @@ Open `notebooks/pride_pmc_reuse_analysis.ipynb` and run cells top to bottom.
 ## Related projects
 
 - Cell-type / tissue predictors (XGBoost on proteomics tissue atlas):
-  not included in this repository; see the original source project.
+  [CompOmics/Tissue_prediction_manuscript](https://github.com/CompOmics/Tissue_prediction_manuscript)
