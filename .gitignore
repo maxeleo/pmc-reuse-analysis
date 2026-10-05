@@ -1,0 +1,31 @@
+# Environments & secrets
+.venv/
+venv/
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+
+# Data & results (regenerated; keep only directory structure)
+data/raw/*
+data/processed/*
+results/*
+!**/.gitkeep
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Agent / workspace artifacts (not part of the scientific project)
+Claude.md
+CLAUDE.md
+directives/
+execution/
+.tmp/
+*.backup.ipynb
+*.log

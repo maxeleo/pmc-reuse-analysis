@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+tqdm
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
+mysql-connector-python
+ipython
+jupyter
