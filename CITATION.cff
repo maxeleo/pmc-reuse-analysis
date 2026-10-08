@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "pmc-reuse-analysis"
+abstract: >
+  Mining PubMed Central full-text literature to measure reuse of public
+  proteomics datasets deposited in PRIDE. Uses NCBI E-utilities and BioC APIs
+  with year-by-year collection to bypass the 9,999-result eSearch cap.
+authors:
+  - family-names: Murachev
+    given-names: Maksim
+    email: maxmurachevwork@gmail.com
+repository-code: "https://github.com/maxeleo/pmc-reuse-analysis"
+license: MIT
+version: "0.1.0"
+date-released: "2026-10-08"
+keywords:
+  - proteomics
+  - PRIDE
+  - PubMed Central
+  - text mining
+  - dataset reuse
+  - bioinformatics
